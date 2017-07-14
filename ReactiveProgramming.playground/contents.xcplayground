@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Observing the mutable'/>
+        <page name='Extending UIKit'/>
+        <page name='Map your way to greater glory'/>
+        <page name='Boxes in boxes oh my'/>
+        <page name='A slightly more sophisticated use case'/>
+        <page name='Asynchornous error handling'/>
+    </pages>
+</playground>
